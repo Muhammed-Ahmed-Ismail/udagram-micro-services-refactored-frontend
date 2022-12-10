@@ -15,7 +15,7 @@ spec:
         service: udagram-frontend
     spec:
       containers:
-        - image: muhammedismaildev/udagram-frontend:v6
+        - image: muhammedismaildev/udagram-frontend:v7
           name: udagram-frontend
           imagePullPolicy: Always
           resources:
